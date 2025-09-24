@@ -1,0 +1,227 @@
+all.png
+size: 848, 835
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_def
+  rotate: false
+  xy: 61, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+back_press
+  rotate: false
+  xy: 133, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+chainL
+  rotate: false
+  xy: 561, 176
+  size: 250, 225
+  orig: 250, 225
+  offset: 0, 0
+  index: -1
+circle_dynamic
+  rotate: false
+  xy: 434, 176
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+coneL
+  rotate: false
+  xy: 2, 403
+  size: 250, 225
+  orig: 250, 225
+  offset: 0, 0
+  index: -1
+false
+  rotate: false
+  xy: 205, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+gray-15_def
+  rotate: false
+  xy: 158, 74
+  size: 100, 100
+  split: 24, 25, 14, 23
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gray-15_press
+  rotate: false
+  xy: 260, 74
+  size: 100, 100
+  split: 23, 26, 26, 20
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gray-30_def
+  rotate: false
+  xy: 362, 74
+  size: 100, 100
+  split: 31, 36, 36, 40
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gray-30_press
+  rotate: false
+  xy: 464, 74
+  size: 100, 100
+  split: 40, 39, 38, 38
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+i_def
+  rotate: false
+  xy: 2, 176
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+i_pres
+  rotate: false
+  xy: 110, 176
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+info_def
+  rotate: false
+  xy: 277, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+info_pres
+  rotate: false
+  xy: 349, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+menu_def
+  rotate: false
+  xy: 421, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+menu_press
+  rotate: false
+  xy: 493, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+music_check
+  rotate: false
+  xy: 218, 176
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+music_def
+  rotate: false
+  xy: 326, 176
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+pointL
+  rotate: false
+  xy: 254, 403
+  size: 250, 225
+  orig: 250, 225
+  offset: 0, 0
+  index: -1
+progress
+  rotate: false
+  xy: 2, 797
+  size: 794, 14
+  orig: 794, 14
+  offset: 0, 0
+  index: -1
+progress_frame
+  rotate: false
+  xy: 2, 813
+  size: 800, 20
+  orig: 800, 20
+  offset: 0, 0
+  index: -1
+rect
+  rotate: false
+  xy: 2, 2
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+rect_dynamic
+  rotate: false
+  xy: 2, 74
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+settings_def
+  rotate: false
+  xy: 565, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+settings_press
+  rotate: false
+  xy: 637, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 80, 74
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+triangle
+  rotate: false
+  xy: 506, 403
+  size: 340, 392
+  orig: 340, 392
+  offset: 0, 0
+  index: -1
+true
+  rotate: false
+  xy: 709, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+yellow-30_def
+  rotate: false
+  xy: 566, 74
+  size: 100, 100
+  split: 38, 41, 35, 40
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yellow-30_press
+  rotate: false
+  xy: 668, 74
+  size: 100, 100
+  split: 38, 36, 37, 39
+  pad: -1, -1, -1, -1
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
